@@ -9,10 +9,9 @@ A sleek and modern **event management web application** that helps you track upc
 ## ✨ Features
 
 - 📅 **Event Calendar:** View upcoming events in a dynamic, interactive calendar.
-- 📝 **Add and Edit Events:** Quickly add or modify events, including details like date, time, and description.
+- 📝 **Filter Events:** Quickly filtering events.
 - 🔍 **Event Search:** Search for specific events by name, date, or description.
 - 🗓️ **Event Details:** Click on any event to view additional information, such as event times and details.
-- 🌙 **Light/Dark Mode:** Switch between light and dark themes to suit your preferences.
 - 📱 **Responsive Design:** Optimized for both desktop and mobile devices for seamless access on the go.
 
 ---
